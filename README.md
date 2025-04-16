@@ -28,7 +28,6 @@ No additional software or dependencies required
 Installation
 Clone the repository:
 Copy
-git clone https://github.com/yourusername/memory-game.git
 Open the project folder:
 Copy
 cd memory-game
